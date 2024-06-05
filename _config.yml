@@ -12,7 +12,7 @@ title                    : "YUZHE LEI"
 title_separator          : "-"
 name                     : &name "Yuzhe Lei"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yzl011.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YZL011/YZL011.github.io"
 

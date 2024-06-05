@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "lei.profile.png"
   name             : "Yuzhe Lei"
-  pronouns         : "he/him"  
-  bio              : # "M.A. student at UT Austin"
+  pronouns         : # "he/him"  
+  bio              : "M.A. student at UT Austin"
   location         : "Austin, TX"
   employer         : # "Red Brick University"
   uri              : # URL
@@ -43,12 +43,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
